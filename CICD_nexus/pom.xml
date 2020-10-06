@@ -11,9 +11,9 @@
   
   <distributionManagement>
   <snapshotRepository>
-    <id>cicdnexus</id>
-    <name>cicdnexus</name>
-    <url>http://localhost:8081/repository/cicdnexus/</url>
+    <id>cicd10nexus</id>
+    <name>cicd10nexus</name>
+    <url>http://localhost:8081/repository/cicd10nexus/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
